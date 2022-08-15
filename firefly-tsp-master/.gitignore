@@ -1,0 +1,11 @@
+*~
+*.pyc
+__pycache__
+
+gui-app/node_modules
+gui-app/.sass-cache
+gui-app/app/vendor
+gui-app/*.iml
+gui-app/.idea/
+.DS_Store
+
